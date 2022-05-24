@@ -1,0 +1,13 @@
+C:\Users\nmash\source\repos\DS-Project\DS-Project\bin\Debug\netcoreapp3.1\DS-Project.exe
+C:\Users\nmash\source\repos\DS-Project\DS-Project\bin\Debug\netcoreapp3.1\DS-Project.deps.json
+C:\Users\nmash\source\repos\DS-Project\DS-Project\bin\Debug\netcoreapp3.1\DS-Project.runtimeconfig.json
+C:\Users\nmash\source\repos\DS-Project\DS-Project\bin\Debug\netcoreapp3.1\DS-Project.runtimeconfig.dev.json
+C:\Users\nmash\source\repos\DS-Project\DS-Project\bin\Debug\netcoreapp3.1\DS-Project.dll
+C:\Users\nmash\source\repos\DS-Project\DS-Project\bin\Debug\netcoreapp3.1\DS-Project.pdb
+C:\Users\nmash\source\repos\DS-Project\DS-Project\obj\Debug\netcoreapp3.1\DS-Project.csprojAssemblyReference.cache
+C:\Users\nmash\source\repos\DS-Project\DS-Project\obj\Debug\netcoreapp3.1\DS-Project.AssemblyInfoInputs.cache
+C:\Users\nmash\source\repos\DS-Project\DS-Project\obj\Debug\netcoreapp3.1\DS-Project.AssemblyInfo.cs
+C:\Users\nmash\source\repos\DS-Project\DS-Project\obj\Debug\netcoreapp3.1\DS-Project.csproj.CoreCompileInputs.cache
+C:\Users\nmash\source\repos\DS-Project\DS-Project\obj\Debug\netcoreapp3.1\DS-Project.dll
+C:\Users\nmash\source\repos\DS-Project\DS-Project\obj\Debug\netcoreapp3.1\DS-Project.pdb
+C:\Users\nmash\source\repos\DS-Project\DS-Project\obj\Debug\netcoreapp3.1\DS-Project.genruntimeconfig.cache
